@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: quintoRepo
+Version: 0.1.0
+Summary: Un paquete pip simple de saludo
+Home-page: https://github.com/leon1989-git/QuintoRepo
+Author: Ruben Dario Leon
+Author-email: leon@outlook.com
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: summary
